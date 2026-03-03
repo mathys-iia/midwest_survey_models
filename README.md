@@ -20,3 +20,11 @@ A couple of quick models designed for the dataset midwest survey.
 3. Implement a new way to safely share models (hint: check the library skops)
 
 Once all these are done, you can continue to the third part of this guided work: prepare a presentation with your group.
+
+1- Look for a file called "security_breach.txt" in your computer. How was it created?
+
+The file "security_breach.txt" has been created by the file "transformers.py"
+
+2- This file created is quite harmless; could you give an example of something that could have been done more harmful?
+
+It could have encrypt or steal local data and send it to an external server.
